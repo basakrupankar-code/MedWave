@@ -15,3 +15,4 @@ Individuals in remote villages without reliable internet access seeking medical 
 - Video consultations
 - Mobile app or web interface requirement for patients
 - Advanced online prescription management
+- Physical Appointment Booking
