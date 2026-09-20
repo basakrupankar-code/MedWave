@@ -1,4 +1,4 @@
-MedWave addresses the lack of healthcare access in remote villages by providing a voice-based medical consultation service. By allowing users to connect with healthcare professionals through a simple phone call, it ensures reliable medical advice without the need for an internet connection.
+MedWave addresses the lack of healthcare access in remote villages by providing a voice-based medical consultation and triage service. Through a simple toll-free phone call, users can receive reliable medical advice, get triaged based on their symptoms, and book physical appointments at their nearest available medical facility, all without requiring an internet connection.
 
 ![Sketch](./docs/My%20First%20Board%20(2).jpg)
 
